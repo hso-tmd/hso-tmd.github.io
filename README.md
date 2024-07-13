@@ -21,14 +21,14 @@
  </div>
 
 * <div>
-  <p><a href="hso-tmd.github.io/blob/main/slides/fas/UConnHSO.pdf" target="_blank">
+  <p><a href="hso-tmd.github.io/slides/fas/UConnHSO.pdf" target="_blank">
      Hadron	structure-oriented	approach	to	TMD	phenomenology (Fatma Aslan)</a> </p>
   <p>Seminar at the University of Connecticut, April 1st, 2024, Storrs, CT</p>
  </div>
 
 
 * <div>
-  <p><a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/slides/" target="_blank">
+  <p><a href="https://hso-tmd.github.io/slides/" target="_blank">
      TITLE (speaker)</a> </p>
   <p>WORKSHOP/CONFEENCE, PLACE, DATE</p>
  </div>
