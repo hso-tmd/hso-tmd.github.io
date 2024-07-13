@@ -22,7 +22,7 @@
   <p>10th workshop of the APS Topical Group on Hadronic Physics, Minneapolis, Minnesota, April 13, 2023</p>
 
 *  <p><a href="https://hso-tmd.github.io/slides/tr/DIS_2023_2.pdf" target="_blank">
-     A hadron-structure-oriented approach to TMD phenomenology (speaker)</a> </p>
+     A hadron-structure-oriented approach to TMD phenomenology (Ted Rogers)</a> </p>
      <p>DIS2023, March 30, 2023, Michigan State University in East Lansing, Michigan</p>
 
 
