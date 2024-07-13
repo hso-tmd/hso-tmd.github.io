@@ -1,5 +1,7 @@
 <img style="float: left;" alt="" src="images/3quarks.png" width="100" height="100">  
-# <p style="text-align: center; color: red;">This paragraph is centered and red.</p>
+<p align="center">
+Hadron Structure Oriented approach to TMDs
+</p>
 
 
 
