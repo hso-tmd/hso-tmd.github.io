@@ -1,10 +1,10 @@
-# Hadron Structure Oriented approach to TMD phenomenology.
-<img src="images/3quarks.png" width="314" height="314">
+
+<img src="images/3quarks.png" width="200" height="200"> #Hadron Structure Oriented approach to TMD phenomenology.
 
 
-## Find slides and code samples <a href="https://drive.google.com/drive/folders/1ztGUfdyYO7ATZ6cmxIjeusdafHC8Agf2?usp=sharing" target="_blank">here.</a>
+## talks <a href="https:https://github.com/hso-tmd/hso-tmd.github.io/tree/main/slides</a>
 
-## See the following description: <a href="https://tddyrogers.github.io/python4physics.github.io/documents/Python4Physics.pdf" target="_blank">Python4Physics: A physics outreach program</a>
+## resources <a href="https://tddyrogers.github.io/python4physics.github.io/documents/Python4Physics.pdf" target="_blank">Python4Physics: A physics outreach program</a>
 
 
 
