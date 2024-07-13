@@ -39,24 +39,21 @@
 
 ##   Publications
 
-<p><a href="https://inspirehep.net/literature/2606482" target="_blank">
-     A first implementation of the HSO approach to TMD phenomenology (J. Osvaldo Gonzalez H.) </a> </p>
-     <p>QCD evolution 2024, May 30, 2024, Pavia, Italy</p>
 
-
-*  <p><a href="https://inspirehep.net/literature/2606482" target="_blank"></a>
-     Basics of factorization in a scalar Yukawa field theory </p>
+*  <p><a href="https://inspirehep.net/literature/2606482" target="_blank">
+     Basics of factorization in a scalar Yukawa field theory </a></p>
 
 *  <p><a href="https://inspirehep.net/literature/2640018" target="_blank">
-     </a> Resolution to the problem of consistent large transverse momentum in TMDs</p>
+      Resolution to the problem of consistent large transverse momentum in TMDs</a></p>
 
 *  <p><a href="https://inspirehep.net/literature/2080521" target="_blank">
-     </a> Combining nonperturbative transverse momentum dependence with TMD evolution</p>
+     Combining nonperturbative transverse momentum dependence with TMD evolution</a></p>
 
 ##   Preprints
 
 *  <p><a href="https://inspirehep.net/literature/2751355" target="_blank">
-     </a> Phenomenology of TMD parton distributions in Drell-Yan and Z0 boson production in a hadron structure oriented approach</p>
+     Phenomenology of TMD parton distributions in Drell-Yan and Z0 boson production in a 
+     hadron structure oriented approach</a>/p>
      
 
 
