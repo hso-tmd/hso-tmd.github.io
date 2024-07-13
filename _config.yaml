@@ -2,5 +2,5 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: HSO-TMD 1.0
-description: A site for general resources
+title: HSO TMD 
+description: Resource page
