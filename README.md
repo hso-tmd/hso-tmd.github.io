@@ -9,7 +9,7 @@
 * * *
 
 ##  Talks
-*   <a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/slides/tr/MC_EIC_2022.pdf" target="_blank"> Combining perturbative and nonperturbative transverse momentum in SIDIS</a> Workshop on MCEGs at the EIC (MC4EIC), November 18, 2022. (Remote meeting)
+*   <span <a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/slides/tr/MC_EIC_2022.pdf" target="_blank"> Combining perturbative and nonperturbative transverse momentum in SIDIS</a> Workshop on MCEGs at the EIC (MC4EIC), November 18, 2022. (Remote meeting)<\span>
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
