@@ -1,7 +1,6 @@
-<img style="float: left;" alt="" src="images/3quarks.png" width="100" height="100">  
-<p align="center" fontsize="30pt">
-Hadron Structure Oriented approach to TMDs
-</p>
+<img style="float: center;" alt="" src="images/3quarks.png" width="100" height="100">  
+
+# Hadron Structure Oriented approach to TMDs
 
 
 
