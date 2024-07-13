@@ -7,7 +7,7 @@
 
 * * *
 
-##  Selected Talks <div><a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/slides" target="_blank"></div> (see all)</a>
+##   <div>Selected Talks <a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/slides" target="_blank"> (see all)</a></div>
 * <div class="myDiv">
   <p><a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/slides/tr/MC_EIC_2022.pdf" target="_blank">
      Combining perturbative and nonperturbative transverse momentum in SIDIS (Ted Rogers)</a> </p>
