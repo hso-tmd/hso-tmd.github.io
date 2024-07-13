@@ -33,6 +33,12 @@
      Hadron	structure-oriented	approach	to	TMD	phenomenology (Fatma Aslan)</a> </p>
     <p>Seminar at the University of Connecticut, April 1st, 2024, Storrs, CT</p>
 
+*  <p><a href="https://hso-tmd.github.io/slides/jogh/QCD_EVO_May-27-31_2024.pdf" target="_blank">
+     A first implementation of the HSO approach to TMD phenomenology (J. Osvaldo Gonzalez H.)</a> </p>
+     <p>QCD evolution 2024, May 30, 2024, Pavia, Italy</p>
+     
+
+
 
 
 ##   Publications
