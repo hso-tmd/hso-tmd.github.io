@@ -1,5 +1,5 @@
 <img style="float: left;" alt="" src="images/3quarks.png" width="100" height="100">  
-<p align="center">
+# <p align="center">
 Hadron Structure Oriented approach to TMDs
 </p>
 
