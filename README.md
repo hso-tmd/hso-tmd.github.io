@@ -13,12 +13,8 @@
      Combining perturbative and nonperturbative transverse momentum in SIDIS (Ted Rogers)</a> </p>
   <p>Workshop on MCEGs at the EIC (MC4EIC), November 18, 2022. (Remote meeting)</p>
  </div>
- * <div>
-  <p><a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/slides/" target="_blank">
-     TITLE (speaker)</a> </p>
-  <p>WORKSHOP/CONFEENCE, PLACE, DATE</p>
- </div>
- * <div>
+ 
+* <div>
   <p><a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/slides/" target="_blank">
      TITLE (speaker)</a> </p>
   <p>WORKSHOP/CONFEENCE, PLACE, DATE</p>
