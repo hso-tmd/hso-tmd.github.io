@@ -29,7 +29,7 @@
 
 * <div>
   <p><a href="https://hso-tmd.github.io/slides/train/" target="_blank">
-     Consistent large transverse momentum matching in TMDs with “Hadron Structure Oriented” approach (Tommaso Rainaldi)</a> </p>
+     Consistent large transverse momentum matching in TMDs with HSO approach (Tommaso Rainaldi)</a> </p>
   <p>WORKSHOP/CONFEENCE, PLACE, DATE</p>
  </div>
  
