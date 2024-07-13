@@ -15,7 +15,7 @@
 
 *  <p><a href="https://hso-tmd.github.io/slides/tr/MC_EIC_2022.pdf" target="_blank">
      Combining perturbative and nonperturbative transverse momentum in SIDIS (Ted Rogers)</a> </p>
-  <p>Workshop on MCEGs at the EIC (MC4EIC), November 18, 2022. (Remote meeting)</p>
+     <p>Workshop on MCEGs at the EIC (MC4EIC), November 18, 2022. (Remote meeting)</p>
 
 *  <p><a href="https://hso-tmd.github.io/slides/tr/DIS_2023_2.pdf" target="_blank">
      A hadron-structure-oriented approach to TMD phenomenology (Ted Rogers)</a> </p>
