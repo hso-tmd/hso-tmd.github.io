@@ -22,7 +22,7 @@
 
 * <div>
   <p><a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/slides/fas/UConnHSO.pdf" target="_blank">
-     Seminar (Fatma Aslan)</a> </p>
+     Hadron	structure-oriented	approach	to	TMD	phenomenology (Fatma Aslan)</a> </p>
   <p>Seminar at the University of Connecticut, April 1st, 2024, Storrs, CT</p>
  </div>
 
