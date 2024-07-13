@@ -5,12 +5,12 @@
 
 
 
-## Introduction
+### Introduction
 *   <a href="https://www.youtube.com/watch?v=7Wqx9yhBXuI&t=4382s" target="_blank"> Video (Ted Rogers) </a>
 
 * * *
 
-##   Selected Talks <a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/slides" target="_blank"> (see all)</a>
+###   Selected Talks <a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/slides" target="_blank"> (see all)</a>
 
 *  <p><a href="https://hso-tmd.github.io/slides/jogh/Transversity2022_gonzalez.pdf" target="_blank">
      Combining non perturbative models with the CSS formalism (J.Osvaldo Gonzalez H)</a> </p>
@@ -40,7 +40,7 @@
 
 
 
-##   Publications
+###   Publications
 
 
 *  <p><a href="https://inspirehep.net/literature/2606482" target="_blank">
@@ -52,7 +52,7 @@
 *  <p><a href="https://inspirehep.net/literature/2080521" target="_blank">
      Combining nonperturbative transverse momentum dependence with TMD evolution</a></p>
 
-##   Preprints
+###   Preprints
 
 *  <p><a href="https://inspirehep.net/literature/2751355" target="_blank">
      Phenomenology of TMD parton distributions in Drell-Yan and Z0 boson production in a 
