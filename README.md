@@ -1,5 +1,5 @@
 # Hadron Structure Oriented approach to TMD phenomenology.
-<img src="images/3quarks.png" width="314" height="168">
+<img src="images/3quarks.png" width="314" height="314">
 
 
 ## Find slides and code samples <a href="https://drive.google.com/drive/folders/1ztGUfdyYO7ATZ6cmxIjeusdafHC8Agf2?usp=sharing" target="_blank">here.</a>
