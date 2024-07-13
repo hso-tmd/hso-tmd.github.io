@@ -1,4 +1,4 @@
-<img style="float: center;" alt="" src="images/3quarks.png" width="100" height="100">  
+
 
 # Hadron Structure Oriented approach to TMDs
 
