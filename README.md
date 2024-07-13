@@ -10,10 +10,7 @@
 </head>
 <body>
 
-<div class="myDiv">
-  <h2>This is a heading in a div element</h2>
-  <p>This is some text in a div element.</p>
-</div>
+
 
 </body>
 </html>
@@ -27,6 +24,10 @@
 * * *
 
 ##  Talks
+* <div class="myDiv">
+  <h2>This is a heading in a div element</h2>
+  <p>This is some text in a div element.</p>
+</div>
 * <a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/slides/tr/MC_EIC_2022.pdf" target="_blank"> 
   Combining perturbative and nonperturbative transverse momentum in SIDIS</a> 
   <p>Workshop on MCEGs at the EIC (MC4EIC), November 18, 2022. (Remote meeting)</p>
