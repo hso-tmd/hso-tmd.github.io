@@ -1,6 +1,6 @@
 
 # Hadron Structure Oriented approach to TMD phenomenology. 
-<img style="float: right;" alt="" src="images/3quarks.png" width="100" height="100">  
+<img style="float: left;" alt="" src="images/3quarks.png" width="200" height="200">  
 
 ## <a href="https://github.com/hso-tmd/hso-tmd.github.io/tree/main/slides/index.html" target="_blank">Talks</a>
 
