@@ -4,6 +4,6 @@
 
 ## <a href="https://github.com/hso-tmd/hso-tmd.github.io/tree/main/slides/index.html" target="_blank">Talks</a>
 
-## <a href="https://tddyrogers.github.io/python4physics.github.io/documents/Python4Physics.pdf" target="_blank">Resources</a>
+## <a href="https://www.youtube.com/watch?v=7Wqx9yhBXuI&t=4382s" target="_blank">Video lecture</a>
 
 
