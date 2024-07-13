@@ -21,7 +21,7 @@
  </div>
 
 * <div>
-  <p><a href="hso-tmd.github.io/slides/fas/UConnHSO.pdf" target="_blank">
+  <p><a href="https://hso-tmd.github.io/slides/fas/UConnHSO.pdf" target="_blank">
      Hadron	structure-oriented	approach	to	TMD	phenomenology (Fatma Aslan)</a> </p>
   <p>Seminar at the University of Connecticut, April 1st, 2024, Storrs, CT</p>
  </div>
