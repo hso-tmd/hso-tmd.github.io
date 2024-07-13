@@ -27,7 +27,12 @@
   <p>Seminar at the University of Connecticut, April 1st, 2024, Storrs, CT</p>
  </div>
 
-
+* <div>
+  <p><a href="https://hso-tmd.github.io/slides/train/" target="_blank">
+     Consistent large transverse momentum matching in TMDs with “Hadron Structure Oriented” approach (Tommaso Rainaldi)</a> </p>
+  <p>WORKSHOP/CONFEENCE, PLACE, DATE</p>
+ </div>
+ 
 * <div>
   <p><a href="https://hso-tmd.github.io/slides/" target="_blank">
      TITLE (speaker)</a> </p>
