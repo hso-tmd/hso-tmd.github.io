@@ -28,7 +28,7 @@
  </div>
 
 * <div>
-  <p><a href="https://hso-tmd.github.io/slides/train/" target="_blank">
+  <p><a href="https://hso-tmd.github.io/slides/train/Rainaldi_GHP2023.pdf" target="_blank">
      Consistent large transverse momentum matching in TMDs with HSO approach (Tommaso Rainaldi)</a> </p>
   <p>10th workshop of the APS Topical Group on Hadronic Physics, Minneapolis, Minnesota, April 13, 2023</p>
  </div>
