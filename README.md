@@ -1,7 +1,6 @@
 
 <img style="float: left;" alt="" src="images/3quarks.png" width="100" height="100">  
-# Hadron Structure Oriented approach to
-# TMD phenomenology. 
+#   Hadron Structure Oriented approach to TMD phenomenology. 
 
 
 ## Introduction
