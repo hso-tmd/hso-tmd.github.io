@@ -7,50 +7,22 @@
 
 * * *
 
-##   <div>Selected Talks <a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/slides" target="_blank"> (see all)</a></div>
-* <div>
+##   Selected Talks <a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/slides" target="_blank"> (see all)</a>
+* 
   <p><a href="https://hso-tmd.github.io/slides/tr/MC_EIC_2022.pdf" target="_blank">
      Combining perturbative and nonperturbative transverse momentum in SIDIS (Ted Rogers)</a> </p>
   <p>Workshop on MCEGs at the EIC (MC4EIC), November 18, 2022. (Remote meeting)</p>
- </div>
 
-
-
- 
- <!-- * <div>
-  <p><a href="https://hso-tmd.github.io/slides/" target="_blank">
-     A hadron-structure-oriented approach to TMD phenomenology (Ted Rogers)</a> </p>
-  <p>Cake Seminar, May 10, 2023, Jefferson Lab, Newport News, VA</p>
- </div> -->
-
-
-* <div>
-  <p><a href="https://hso-tmd.github.io/slides/fas/UConnHSO.pdf" target="_blank">
+*  <p><a href="https://hso-tmd.github.io/slides/fas/UConnHSO.pdf" target="_blank">
      Hadron	structure-oriented	approach	to	TMD	phenomenology (Fatma Aslan)</a> </p>
-  <p>Seminar at the University of Connecticut, April 1st, 2024, Storrs, CT</p>
- </div>
+    <p>Seminar at the University of Connecticut, April 1st, 2024, Storrs, CT</p>
 
-* <div>
-  <p><a href="https://hso-tmd.github.io/slides/train/Rainaldi_GHP2023.pdf" target="_blank">
+* <p><a href="https://hso-tmd.github.io/slides/train/Rainaldi_GHP2023.pdf" target="_blank">
      Consistent large transverse momentum matching in TMDs with HSO approach (Tommaso Rainaldi)</a> </p>
   <p>10th workshop of the APS Topical Group on Hadronic Physics, Minneapolis, Minnesota, April 13, 2023</p>
- </div>
 
-
-
- * <div>
-  <p><a href="https://hso-tmd.github.io/slides/" target="_blank">
-     TITLE (speaker)</a> </p>
-  <p>WORKSHOP/CONFEENCE, PLACE, DATE</p>
- </div>
- 
-* <div>
-  <p><a href="https://hso-tmd.github.io/slides/tr/DIS_2023_2.pdf" target="_blank">
+*  <p><a href="https://hso-tmd.github.io/slides/tr/DIS_2023_2.pdf" target="_blank">
      A hadron-structure-oriented approach to TMD phenomenology (speaker)</a> </p>
   <p>DIS2023, March 30, 2023, Michigan State University in East Lansing, Michigan</p>
- </div>
 
 
- “,” 
-
- 
