@@ -47,8 +47,7 @@
 * <div>
   <p><a href="https://hso-tmd.github.io/slides/tr/DIS_2023_2.pdf" target="_blank">
      A hadron-structure-oriented approach to TMD phenomenology (speaker)</a> </p>
-  <p>DIS2023, March 30, 2023, Michigan
-State University in East Lansing, Michigan</p>
+  <p>DIS2023, March 30, 2023, Michigan State University in East Lansing, Michigan</p>
  </div>
 
 
