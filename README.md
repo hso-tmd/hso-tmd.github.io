@@ -38,8 +38,8 @@
 
 
 ##   Publications
-*  <p><a href="https://inspirehep.net/literature/2606482" target="_blank">
-     </a>Basics of factorization in a scalar Yukawa field theory </p>
+*  <p><a href="https://inspirehep.net/literature/2606482" target="_blank"></a>
+     Basics of factorization in a scalar Yukawa field theory </p>
 
 *  <p><a href="https://inspirehep.net/literature/2640018" target="_blank">
      </a> Resolution to the problem of consistent large transverse momentum in TMDs</p>
