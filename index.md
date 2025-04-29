@@ -59,7 +59,7 @@
 
 ###   Useful Tools
 
-[HadKin (MatLab)](./pages/hadkin.md).
+[HadKin (MatLab)](hadkin.md).
 
 
 
