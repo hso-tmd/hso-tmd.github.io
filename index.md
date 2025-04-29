@@ -1,6 +1,6 @@
 
 
-# Hadron Structure Oriented approach to TMDs (intro)
+# Hadron Structure Oriented approach to TMDs
 
 
 
@@ -59,8 +59,8 @@
 
 ###   Useful Tools
 
-*  <p><a href="https://github.com/hso-tmd/hso-tmd.github.io/blob/main/tools/DrellYan_Kinematics" target="_blank">
-      Drell-Yan kinematics (MATLAB code by ...) </a></p>
+[Drell-Yan kinematics (MATLAB code)](./dy-kinematics.html).
+
 
 
 
