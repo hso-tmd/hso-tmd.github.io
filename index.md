@@ -59,7 +59,7 @@
 
 ###   Useful Tools
 
-[HadKin (MatLab)](https://github.com/hso-tmd/HadKin).
+[HadKin (MatLab)](https://github.com/hso-tmd/hso-tmd.github.io/pages/hadkin.md).
 
 
 
