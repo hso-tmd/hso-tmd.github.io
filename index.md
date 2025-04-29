@@ -59,7 +59,7 @@
 
 ###   Useful Tools
 
-[Drell-Yan kinematics (MATLAB code)](./tools/DrellYan_Kinematics/dy-kinematics.html).
+[Drell-Yan kinematics (MATLAB code)](./tools/DrellYan_Kinematics/dy-kinematics.md).
 
 
 
