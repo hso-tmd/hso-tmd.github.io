@@ -9,8 +9,10 @@ A MatLab tool that automates and visualizes Lorentz transformations for relativi
 Author: George Vassilakopoulos (Old Dominion University)
 
 
-[github repository](https://github.com/hso-tmd/HadKin)
+[Download (github repository)](https://github.com/hso-tmd/HadKin)
 
+
+B.Sc. Thesis by George Vassilakopoulos
 
 * * *
 
