@@ -9,7 +9,7 @@ A MatLab tool that automates and visualizes Lorentz transformations for relativi
 Author: George Vassilakopoulos (Old Dominion University)
 
 
-source: [Download (github repository)](https://hso-tmd.github.io/HadKin/src)
+source: [Download (github repository)](https://github.com/hso-tmd/HadKin)
 
 documentation: 
 
