@@ -9,11 +9,11 @@ A MatLab tool that automates and visualizes Lorentz transformations for relativi
 Author: George Vassilakopoulos (Old Dominion University)
 
 
-source: [Download (github repository)](https://github.com/hso-tmd/HadKin/src/)
+source: [Download (github repository)](https://github.com/hso-tmd/HadKin/tree/main/src/)
 
 documentation: 
 
-* <p><a href="https://github.com/hso-tmd/HadKin/doc/HadKin.pdf" target="_blank">
+* <p><a href="https://github.com/hso-tmd/HadKin/tree/main/doc/HadKin.pdf" target="_blank">
      AN APPLICATION TO AUTOMATE REFERENCE FRAME TRANSFORMATIONS IN HIGH-ENERGY AND NUCLEAR PHYSICS </a> </p>
      <p>B.Sc. Thesis by George Vassilakopoulos</p>
 
